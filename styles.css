@@ -1,0 +1,30 @@
+body {
+  font-family: "Calibri";
+  text-align: center;
+  background-color: #ccccff;
+ }
+
+ h1 { font-size: 90px;}
+
+ h2 { font-size: 45px;}
+
+ h3 { font-size: 30px;}
+
+ .important { font-size: 25px;}
+
+ .bloggers { text-align: center;}
+
+.kbport {
+    width: 960px;
+  margin: 25px auto;}
+
+.kbport2 {width: 500px;
+  margin: 20px auto;}
+
+.kbportheaders {font-weight: bold;
+  font-size: 20px;
+  text-decoration:underline;}
+
+.topnav a {padding-right: 14px;}
+
+ul { display: inline-block; text-align: left; padding-left:30px}
